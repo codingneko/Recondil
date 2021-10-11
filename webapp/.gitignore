@@ -1,0 +1,13 @@
+# Main
+/node_modules
+/config
+/build
+
+# Main configuration file 
+.env
+
+# Dumb stuff
+.DS_Store
+Thumbs.db
+*.log
+core
